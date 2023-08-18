@@ -72,13 +72,13 @@
 •	regular_price and current price have correlation = 0.84 so dropped  regular_price
  
 
-•	Data preprocessing
+##	Data preprocessing
 •	Convert the 3 columns of RGB for the main and second color to color code which gets 
 •	Apply Normalization (StandardScaler)
 •	Apply one-hot encoding for categorical features
 •	Split Data to 80% train and 20% test
 •	Resample unbalanced data by randomly
-•	Modelling
+##	Modelling
 •	Using Random Forest Classifier to fit the data
 •	The training accuracy is 1.0
 •	prediction accuracy

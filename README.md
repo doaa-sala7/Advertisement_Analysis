@@ -53,6 +53,7 @@
 •	Major product category: Training
 
 ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/df9af7b5-f7cd-4796-bd69-534f1c3de3bb)
+
 •	article Style: slim is the major
 
 ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/a51f41df-edab-408a-8ab2-d8b3e3eb058e)

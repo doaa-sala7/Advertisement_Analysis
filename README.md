@@ -46,23 +46,23 @@
 ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/e3a218d1-4f4a-43b4-b16d-54eb195a656d)
 
 •	Major product: the major product is shoes
+
 ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/f162f084-9208-4a7a-ab9e-18c28a6298ac)
-
 •	Major product category: Training
+
 ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/df9af7b5-f7cd-4796-bd69-534f1c3de3bb)
-
 •	article Style: slim is the major
+
 ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/a51f41df-edab-408a-8ab2-d8b3e3eb058e)
-
 •	target gender: main target gender of the article is women
+
 ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/50eb87b1-a335-443c-b383-ee38d61de802)
-
 •	main size: the main size in the article is (xxs, xs, s, m, l ,xl, xxl )
+
  ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/138a2591-a7f2-4136-ba20-d0468cf6e820)
-
 •	buying the article or not all most the same in all article id
- ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/da67f6f5-035a-4f04-bd70-2eb44f451d7c)
 
+ ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/da67f6f5-035a-4f04-bd70-2eb44f451d7c)
 •	regular_price and current price have correlation = 0.84 so dropped  regular_price
  
 

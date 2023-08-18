@@ -32,9 +32,11 @@
 •	The data has unbalanced labels, the customer who didn't buy is a major class in the data
 ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/adb7f457-aa8a-4a2d-972f-50155807ccff)
 
-•	The distribution of promo1 is low for taking media advertisement ![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/c5dee28c-546e-4193-9156-d7453cdec011)
+•	The distribution of promo1 is low for taking media advertisement
+![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/70cfb912-b654-41fa-82e0-83735de541de)
 
-•	 The distribution of promo2 is low for taking events![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/5c042d39-eee8-4b78-89db-bdc45aba5158)
+•	 The distribution of promo2 is low for taking events
+![image](https://github.com/doaa-sala7/Advertisement_Result/assets/61519327/e944da07-2486-45d2-88a2-4e8f26fb87f6)
 
 
 

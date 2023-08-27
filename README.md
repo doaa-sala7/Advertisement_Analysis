@@ -1,4 +1,4 @@
-# Advertisement_result
+# Advertisement_Analysis
 ##	Data understanding
 
 •	country: Country name
@@ -11,7 +11,7 @@
 •	promo1: an indicator for media advertisement, taking 1 in weeks of activation and 0 otherwise
 •	promo2: an indicator for store events, taking 1 in weeks with events and 0 otherwise
 •	customer_id: customer unique identifier, one id per customer
-•	product group: product group the article belongs to
+•	product group: The product group the article belongs to
 •	category: product category the article belongs to
 •	cost: total costs of the article (assumed to be fixed over time)
 •	style: description of article design
